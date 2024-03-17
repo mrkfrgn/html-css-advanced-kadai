@@ -82,7 +82,7 @@ PC用のスタイル
     background-color: #ce933e;
     position: absolute;
     left: 0;
-    top: 0px;
+    top: 0;
     height: 100%;
     width: 100%;
     display: none;
@@ -90,7 +90,7 @@ PC用のスタイル
   }
   #close {
     position: absolute;
-    top: 20x;
+    top: 20px;
     right: 20px;
   }
   #logo-sp {
